@@ -3,6 +3,7 @@
 
 
 INTRODUCTION
+
 AMAZON WEB SERVICES (AWS)
 The term "cloud computing" refers to a technological advancement that makes it possible to store and access projects and data without the need for data banks are located at the client terminal.
 Distributed computing is defined by NIST as "a concept for allowing useful,on-request network access to a shared pool of programmable registering assets that can be swiftly supplied and delivered with minimal specialist co-op communication."
