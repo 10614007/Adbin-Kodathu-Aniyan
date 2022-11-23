@@ -2,6 +2,8 @@
 
 
 
+
+
 INTRODUCTION
 
 AMAZON WEB SERVICES (AWS)
@@ -17,6 +19,7 @@ Amazon reportedly holds close to 50% of the $32 billion public cloud framework m
 Thousands of clients are served by Amazon Web Services in more than 190 nations [9].
 The fact that AWS's services are quite affordable in compared to those of other providers is another important aspect that makes it the top choice.
 Considering the topic in the perspective of the company's popularity and vast market presence.
+
 
 Cloud computing, Amazon Web Services, Small and Medium-sized Enterprises.
 
