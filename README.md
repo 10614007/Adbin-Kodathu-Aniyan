@@ -5,7 +5,7 @@
 ## INTRODUCTION
 Businesses struggle to manage major IT technical problems examine the existing hardware to see if it is compatible with the new technology before implementing it in the company to prevent integration problems, security difficulties, and the threat of cyber hacking to their systems and data. It is time to reevaluate the purposes of technology and determine whether there are any alternatives to internal IT networks. Thankfully, there are other cloud computing options. With the advent of cloud computing, SMEs finally had a chance to regain control of their IT infrastructure. With cloud computing, you can handle all of your company's IT concerns while maintaining total control. 
 
-### **Back ground of the enterprise**
+### **Background Of The Enterprise**
 
 This research analyzes the Aabasoft technologies Private Ltd is today IT infrastructure,customer services and cloud strategy. A private company called Aabasoft technologies was founded on 2002 Kochi,India. They put a lot of effort into offering IT-related services and solutions.The company's main areas of interest include software development, consulting,broadband services and publishing.Moreover,the design, distribution, and documentation of pre-built (non-customized) operating systems, business & other programs, and computer game software for all platforms are all considered to be a part of software publication. Consulting includes determining the user's needs and problems and then offering the best solution in the form of custom software.Furthermore,broadband issues solving sometimes refers to applications developed specifically at the request of a user.
 
