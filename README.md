@@ -19,8 +19,8 @@ The system is currently installed in an on-premises infrastructure.There are 50 
 ### Contrast of cloud and non-cloud solutions 
 --------------------------------------------
 The services offered by the cloud vendor always have an impact on the deployment architecture of a cloud-ready application. The choice of cloud services becomes even more crucial for an application that must operate under strict compliance and data residency requirements.
-Cloud
-------
+### Cloud
+_________
 Improved forecasting and management of costs.
 Elevated concentrations of security and discretion.
 Optimum degrees of resilience.
