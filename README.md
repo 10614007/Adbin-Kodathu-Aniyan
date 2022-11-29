@@ -39,3 +39,8 @@ High levels of security and discretion.
 Maintenance is challenging.
 Working from home or outside the office is not permitted.
 Performing the backups regularly and on a regular basis.
+
+### Cloud Storage VS On-Premises Storage 
+A crucial decision that businesses must make is whether to keep their data on internal or external servers. You should be aware of the key differences between on-premises and cloud storage as you weigh their advantages and disadvantages.
+
+__________________________________________
