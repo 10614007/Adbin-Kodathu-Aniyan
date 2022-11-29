@@ -22,8 +22,8 @@ The services offered by the cloud vendor always have an impact on the deployment
 ### Cloud
 _________
 Improved forecasting and management of costs.
-!Elevated concentrations of security and discretion.
-!Optimum degrees of resilience.
+Elevated concentrations of security and discretion.
+Optimum degrees of resilience.
 Integrated disaster recovery
 Greatly enhanced backup and security.
 Higher scaleability.
@@ -31,3 +31,11 @@ Working from home or outside the office.
 Updates to software are automated.
 lowering of costs.
 Collaboration amongst staff has improved.
+
+### Non-Cloud 
+_____________
+Within the same data center.
+High levels of security and discretion.
+Maintenance is challenging.
+Working from home or outside the office is not permitted.
+Performing the backups regularly and on a regular basis.
