@@ -21,8 +21,8 @@ The system is currently installed in an on-premises infrastructure.There are 50 
 The services offered by the cloud vendor always have an impact on the deployment architecture of a cloud-ready application. The choice of cloud services becomes even more crucial for an application that must operate under strict compliance and data residency requirements.
 ### Cloud
 _________
-Improved forecasting and management of costs.
-Elevated concentrations of security and discretion.
+*Improved forecasting and management of costs.
+*Elevated concentrations of security and discretion.
 Optimum degrees of resilience.
 Integrated disaster recovery
 Greatly enhanced backup and security.
