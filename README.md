@@ -15,4 +15,18 @@ This research analyzes the Aabasoft technologies Private Ltd is today IT infras
 
 Current IT Set Up
 ---------------
-
+The system is currently installed in an on-premises infrastructure.There are 50 people working for Aabasoft Technologies. They are employing the programming languages PHP, HTML, and java to create their software applications. There are certain cloud virtual machine technologies.Essentially,They are creating everything in a private cloud environment and have picked AWS as their cloud service provider.
+### Contrast of cloud and non-cloud solutions 
+--------------------------------------------
+The services offered by the cloud vendor always have an impact on the deployment architecture of a cloud-ready application. The choice of cloud services becomes even more crucial for an application that must operate under strict compliance and data residency requirements.
+### Cloud
+Improved forecasting and management of costs.
+Elevated concentrations of security and discretion.
+Optimum degrees of resilience.
+Integrated disaster recovery
+Greatly enhanced backup and security.
+Higher scaleability.
+Working from home or outside the office.
+Updates to software are automated.
+lowering of costs.
+Collaboration amongst staff has improved.
