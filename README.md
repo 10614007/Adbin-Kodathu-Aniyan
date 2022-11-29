@@ -53,3 +53,4 @@ Function without interne:tOne of the main benefits of on-premises storage is tha
 Offer better Security: Unlike cloud storage, which is less susceptible to outsiders and prying eyes, on-premises access is totally controlled to authorized individuals only. Due to the fact that they do not store the data online, these are inaccessible to users outside of the network.
 
 Grant command over the server hardware. A cloud storage provider can upgrade their storage plan or add new features without needing requests: instead, the provider can handle the upgrades on their own.
+ 
