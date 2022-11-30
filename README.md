@@ -8,6 +8,12 @@
 ________________
 Businesses struggle to manage major IT technical problems examine the existing hardware to see if it is compatible with the new technology before implementing it in the company to prevent integration problems, security difficulties, and the threat of cyber hacking to their systems and data. It is time to reevaluate the purposes of technology and determine whether there are any alternatives to internal IT networks. Thankfully, there are other cloud computing options. With the advent of cloud computing, SMEs finally had a chance to regain control of their IT infrastructure. With cloud computing, you can handle all of your company's IT concerns while maintaining total control. 
 
+## Benefits of cloud 
+_____________________
+Flexibility: Users can scale applications and services to meet their demands, personalize user interfaces, and use cloud services from any location with an internet connection.
+Efficiency: Enterprise users can launch apps fast without worrying about maintenance or underlying infrastructure expenditures.
+Strategic value: By providing the most cutting-edge technology available, cloud services give businesses a competitive edge.
+
 ![alt text](https://miro.medium.com/max/1400/1*vLNbKAWbGtFLC7tUBYb50A.png)
 
 
