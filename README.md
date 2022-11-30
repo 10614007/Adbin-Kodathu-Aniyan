@@ -33,15 +33,13 @@ The services offered by the cloud vendor always have an impact on the deployment
 ### Cloud
 _________
 - Improved forecasting and management of costs.
-- Elevated concentrations of security and discretion.
-- Optimum degrees of resilience.
 - Integrated disaster recovery.
 - Greatly enhanced backup and security.
 - Higher scaleability.
 - Working from home or outside the office.
 - Updates to software are automated.
 - lowering of costs.
-- Collaboration amongst staff has improved.
+
 
 ### Non-Cloud 
 _____________
@@ -81,8 +79,7 @@ Most companies have chosen to Cloud computing is preferred because it is more de
 Cloud computing is the on-demand delivery called Amazon Web Services, of services that allows for the storage and simple access to projects and data.
 Using a service Amazon is at the forefront of providing cloud computing services across the globe (AWS).
 Customers can store data on the platform thanks to it.
-Denial of service is a serious flaw in AWS, which makes it dangerous, especially for companies who rely on the platform substantially for their operations. 
-Cloud computing is crucial for assisting SMEs (Small and Medium Sized Enterprises). 
+
 
 ## Cloud architecture deployment proposed
 ___________________________________________
@@ -95,3 +92,6 @@ The services offered by the cloud vendor always have an impact on the deployment
 Data storage is one of the main ways the cloud interacts with your business. Cloud storage employs external servers that are controlled by a different organization, as opposed to on-premises servers with storage.
 
 The capacity to store data on servers is a fundamental aspect of every organization. After all, your company depends on its servers for survival. They enable you to communicate with people worldwide, save your information, and link your staff. Previously, your only alternatives were on-site servers, but now you also have the option of using cloud-based servers.
+
+# CONCLUSION
+_______________
