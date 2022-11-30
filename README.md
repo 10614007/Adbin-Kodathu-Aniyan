@@ -19,7 +19,7 @@ This research analyzes the Aabasoft technologies Private Ltd is today IT infras
 	
 
 ### Current IT Set Up
----------------------
+______________________
 The system is currently installed in an on-premises infrastructure.There are 50 people working for Aabasoft Technologies. They are employing the programming languages PHP, HTML, and java to create their software applications. There are certain cloud virtual machine technologies.Essentially,They are creating everything in a private cloud environment and have picked AWS as their cloud service provider.
 ### Contrast of cloud and non-cloud solutions 
 --------------------------------------------
