@@ -58,7 +58,7 @@ A crucial decision that businesses must make is whether to keep their data on in
 
 - Function without internet:One of the main benefits of on-premises storage is that it does not require users to have an internet connection in order to access data. Your internal network will be accessible at any time, regardless of your internet connection, thanks to on-premises servers.
 
-- Offer better Security: Unlike cloud storage, which is less susceptible to outsiders and prying eyes, on-premises access is totally controlled to authorized individuals only. Due to the fact that they do not store the data online, these are inaccessible to users outside of the network.
+- Offer better Security: Unlike cloud storage, which is less susceptible to outsiders and prying eyes, on-premises access is totally controlled to authorized individuals only. Due to the fact that they do not store the data online, these are inaccessible to users outside of the network. 
 
 
 
