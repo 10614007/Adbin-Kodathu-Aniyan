@@ -27,10 +27,10 @@ This research analyzes the Aabasoft technologies Private Ltd is today IT infras
 ### Current IT Set Up
 ______________________
 The system is currently installed in an on-premises infrastructure.There are 50 people working for Aabasoft Technologies. They are employing the programming languages PHP, HTML, and java to create their software applications. There are certain cloud virtual machine technologies.Essentially,They are creating everything in a private cloud environment and have picked AWS as their cloud service provider.
-### Contrast of cloud and non-cloud solutions 
+## Contrast of cloud and non-cloud solutions 
 --------------------------------------------
 The services offered by the cloud vendor always have an impact on the deployment architecture of a cloud-ready application. The choice of cloud services becomes even more crucial for an application that must operate under strict compliance and data residency requirements.
-# Cloud
+### Cloud
 _________
 Improved forecasting and management of costs.
 Elevated concentrations of security and discretion.
@@ -43,19 +43,19 @@ Updates to software are automated.
 lowering of costs.
 Collaboration amongst staff has improved.
 
-# Non-Cloud 
+### Non-Cloud 
 _____________
-Within the same data center.
-High levels of security and discretion.
+- Within the same data center.
+- High levels of security and discretion.
 Maintenance is challenging.
 Working from home or outside the office is not permitted.
 Performing the backups regularly and on a regular basis.
 
-### Cloud Storage VS On-Premises Storage 
+## Cloud Storage VS On-Premises Storage 
 __________________________________________
 A crucial decision that businesses must make is whether to keep their data on internal or external servers. You should be aware of the key differences between on-premises and cloud storage as you weigh their advantages and disadvantages.
 
-### Advantages of On Premises Storage 
+## Advantages of On Premises Storage 
 -------------------------------------
 Less expensive monthly internet fees: if your company doesn't use the internet or cloud-based services, you might not need to pay for such a fast connection. The necessity for a reliable connection with quick download speeds is further diminished for individuals who have on-premises storage.
 
@@ -65,7 +65,7 @@ Offer better Security: Unlike cloud storage, which is less susceptible to outsid
 
 Grant command over the server hardware: A cloud storage provider can upgrade their storage plan or add new features without needing requests instead, the provider can handle the upgrades on their own.
  
- ### Amazon Web Services Small and Medium-sized Enterprises
+ ## Amazon Web Services Small and Medium-sized Enterprises
  ___________________________________________________________
 
 Not only in the commercial world but also in our daily lives, cloud computing has grown to be a crucial tool. 
