@@ -38,7 +38,6 @@ _________
 - Higher scaleability.
 - Working from home or outside the office.
 - Updates to software are automated.
-- lowering of costs.
 
 
 ### Non-Cloud 
