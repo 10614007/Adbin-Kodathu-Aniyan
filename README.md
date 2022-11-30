@@ -75,5 +75,10 @@ Using a service Amazon is at the forefront of providing cloud computing services
 Customers can store data on the platform thanks to it.
 Denial of service is a serious flaw in AWS, which makes it dangerous, especially for companies who rely on the platform substantially for their operations. 
 Cloud computing is crucial for assisting SMEs (Small and Medium Sized Enterprises). 
+
+## Cloud architecture deployment proposed
+___________________________________________
+
+The services offered by the cloud vendor always have an impact on the deployment architecture of a cloud-ready application. The choice of cloud services becomes increasingly crucial when a particular application must operate under strict compliance and data residency requirements.
   
     
