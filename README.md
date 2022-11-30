@@ -10,12 +10,13 @@ Businesses struggle to manage major IT technical problems examine the existing h
 
 ![alt text](https://miro.medium.com/max/1400/1*vLNbKAWbGtFLC7tUBYb50A.png)
 
+
 ## **Background Of The Enterprise**
-	
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw46jYbWlWOJ5d0TvUNkKCVXS30jhR2K0Rjw&usqp=CAU)
 
 This research analyzes the Aabasoft technologies Private Ltd is today IT infrastructure,customer services and cloud strategy. A private company called Aabasoft technologies was founded on 2002 Kochi,India. They put a lot of effort into offering IT-related services and solutions.The company's main areas of interest include software development, consulting,broadband services and publishing.Moreover,the design, distribution, and documentation of pre-built (non-customized) operating systems, business & other programs, and computer game software for all platforms are all considered to be a part of software publication. Consulting includes determining the user's needs and problems and then offering the best solution in the form of custom software.Furthermore,broadband issues solving sometimes refers to applications developed specifically at the request of a user.
 	
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw46jYbWlWOJ5d0TvUNkKCVXS30jhR2K0Rjw&usqp=CAU)
 
 ### Current IT Set Up
 ---------------------
