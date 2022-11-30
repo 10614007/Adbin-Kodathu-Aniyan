@@ -94,4 +94,4 @@ Data storage is one of the main ways the cloud interacts with your business. Clo
 The capacity to store data on servers is a fundamental aspect of every organization. After all, your company depends on its servers for survival. They enable you to communicate with people worldwide, save your information, and link your staff. Previously, your only alternatives were on-site servers, but now you also have the option of using cloud-based servers.
 
 # CONCLUSION
-_______________
+_______________ 
