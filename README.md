@@ -61,7 +61,7 @@ A crucial decision that businesses must make is whether to keep their data on in
 
 - Offer better Security: Unlike cloud storage, which is less susceptible to outsiders and prying eyes, on-premises access is totally controlled to authorized individuals only. Due to the fact that they do not store the data online, these are inaccessible to users outside of the network.
 
-- Grant command over the server hardware: A cloud storage provider can upgrade their storage plan or add new features without needing requests instead, the provider can handle the upgrades on their own.
+
 
 ## Why using on-site storage might not be the best choice?
 ___________________________________________________________
@@ -69,7 +69,7 @@ ___________________________________________________________
 - Increasing maintenance costs: In addition to the initial capital expenditure needed to purchase servers and other hardware, it will also be necessary to continue purchasing hardware, software, and licenses to maintain or upgrade the system.
 -  Increasing the likelihood of data loss: When storing data on-premises, you run the risk of losing it forever if the system breaks down or if a compromised system is taken hostage.
 
-- Require a larger initial financial outlay: To get started with on-premises storage, you'll need to invest a sizeable sum of money to buy the servers and other necessary pieces of gear.
+
  
  ## Amazon Web Services Small and Medium-sized Enterprises
  ___________________________________________________________
