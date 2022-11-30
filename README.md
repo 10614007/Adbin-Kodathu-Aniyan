@@ -91,6 +91,7 @@ The services offered by the cloud vendor always have an impact on the deployment
 ### Why is AWS the best choice?
 -------------------------------
 ![alt text](https://taffuploadsprod.s3.amazonaws.com/blog/wp-content/uploads/2021/12/28144903/AWS-Cloud-300x300.png)
+
 Data storage is one of the main ways the cloud interacts with your business. Cloud storage employs external servers that are controlled by a different organization, as opposed to on-premises servers with storage.
 
 The capacity to store data on servers is a fundamental aspect of every organization. After all, your company depends on its servers for survival. They enable you to communicate with people worldwide, save your information, and link your staff. Previously, your only alternatives were on-site servers, but now you also have the option of using cloud-based servers.
