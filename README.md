@@ -1,7 +1,7 @@
 # CA1-ASSIGNMENT 
 
 ### COMPANY CHOOSEN: AABASOFT TECHNOLOGIES PVT LTD 
-
+![alt text](https://fresheropenings.com/wp-content/uploads/2021/03/Aabasoft-Recruitment.png)
 
 ### INTRODUCTION
 Businesses struggle to manage major IT technical problems examine the existing hardware to see if it is compatible with the new technology before implementing it in the company to prevent integration problems, security difficulties, and the threat of cyber hacking to their systems and data. It is time to reevaluate the purposes of technology and determine whether there are any alternatives to internal IT networks. Thankfully, there are other cloud computing options. With the advent of cloud computing, SMEs finally had a chance to regain control of their IT infrastructure. With cloud computing, you can handle all of your company's IT concerns while maintaining total control. 
