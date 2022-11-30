@@ -93,5 +93,9 @@ Data storage is one of the main ways the cloud interacts with your business. Clo
 
 The capacity to store data on servers is a fundamental aspect of every organization. After all, your company depends on its servers for survival. They enable you to communicate with people worldwide, save your information, and link your staff. Previously, your only alternatives were on-site servers, but now you also have the option of using cloud-based servers.
 
-# CONCLUSION
+# Conclusion 
 _______________ 
+Cloud and non-cloud terminologies are both included in the infrastructure of Aabasoft technologies. We evaluated their IT operations and provided several cloud-based choices to boost performance at a reasonable price. I have noted that no suggestions are given in some specific areas, such as hosting and project management, because they are happy with their present choice.
+
+## Referance 
+AWS cloud service provider [ Amazon website ]:(https://aws.amazon.com/lightsail/?trk=d5254134-67ca-4a35-91cc-77868c97eedd&sc_channel=ps&s_kwcid=AL!4422!3!433803620861!e!!g!!amazon%20web%20services&ef_id=Cj0KCQiAm5ycBhCXARIsAPldzoUGMUjBli2h7_ntUjSaRiq-JjvJXTKEftMqgaGpDHDuTvkpkDr50bgaAjLMEALw_wcB:G:s&s_kwcid=AL!4422!3!433803620861!e!!g!!amazon%20web%20services)
