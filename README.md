@@ -52,11 +52,11 @@ A crucial decision that businesses must make is whether to keep their data on in
 -------------------------------------
 Less expensive monthly internet fees: if your company doesn't use the internet or cloud-based services, you might not need to pay for such a fast connection. The necessity for a reliable connection with quick download speeds is further diminished for individuals who have on-premises storage.
 
-Function without interne:tOne of the main benefits of on-premises storage is that it does not require users to have an internet connection in order to access data. Your internal network will be accessible at any time, regardless of your internet connection, thanks to on-premises servers.
+Function without internet:One of the main benefits of on-premises storage is that it does not require users to have an internet connection in order to access data. Your internal network will be accessible at any time, regardless of your internet connection, thanks to on-premises servers.
 
 Offer better Security: Unlike cloud storage, which is less susceptible to outsiders and prying eyes, on-premises access is totally controlled to authorized individuals only. Due to the fact that they do not store the data online, these are inaccessible to users outside of the network.
 
-Grant command over the server hardware. A cloud storage provider can upgrade their storage plan or add new features without needing requests: instead, the provider can handle the upgrades on their own.
+Grant command over the server hardware: A cloud storage provider can upgrade their storage plan or add new features without needing requests instead, the provider can handle the upgrades on their own.
  
  ### Amazon Web Services Small and Medium-sized Enterprises
  ___________________________________________________________
