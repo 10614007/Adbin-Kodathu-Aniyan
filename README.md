@@ -99,3 +99,4 @@ Cloud and non-cloud terminologies are both included in the infrastructure of Aab
 
 ## Referance 
 AWS cloud service provider [ Amazon website ]:(https://aws.amazon.com/lightsail/?trk=d5254134-67ca-4a35-91cc-77868c97eedd&sc_channel=ps&s_kwcid=AL!4422!3!433803620861!e!!g!!amazon%20web%20services&ef_id=Cj0KCQiAm5ycBhCXARIsAPldzoUGMUjBli2h7_ntUjSaRiq-JjvJXTKEftMqgaGpDHDuTvkpkDr50bgaAjLMEALw_wcB:G:s&s_kwcid=AL!4422!3!433803620861!e!!g!!amazon%20web%20services)
+Aws site:(https://aws.amazon.com/what-is-cloud-computing/)
