@@ -76,4 +76,4 @@ Customers can store data on the platform thanks to it.
 Denial of service is a serious flaw in AWS, which makes it dangerous, especially for companies who rely on the platform substantially for their operations. 
 Cloud computing is crucial for assisting SMEs (Small and Medium Sized Enterprises). 
  
-  
+    
