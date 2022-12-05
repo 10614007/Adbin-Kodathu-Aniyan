@@ -86,7 +86,7 @@ ___________________________________________
 The services offered by the cloud vendor always have an impact on the deployment architecture of a cloud-ready application. The choice of cloud services becomes increasingly crucial when a particular application must operate under strict compliance and data residency requirements.
 ### Why is AWS the best choice?
 -------------------------------
-![alt text](https://taffuploadsprod.s3.amazonaws.com/blog/wp-content/uploads/2021/12/28144903/AWS-Cloud-300x300.png)
+![alt text](https://taffuploadsprod.s3.amazonaws.com/blog/wp-content/uploads/2021/12/28144903/AWS-Cloud-500x500.png)
 
 Data storage is one of the main ways the cloud interacts with your business. Cloud storage employs external servers that are controlled by a different organization, as opposed to on-premises servers with storage.
 
